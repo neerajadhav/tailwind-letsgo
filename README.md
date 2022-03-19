@@ -13,7 +13,7 @@ $ source tailwind.sh
 
 ## The following commands will be executed
 
-*Note: The commands are not executed in order as the script is sourced. You do not have to run them manually.*
+*Note: The commands are executed in order as the script is sourced. You do not have to run them manually.*
 
 1. Install Tailwind CSS
 - Install tailwindcss via npm, and create your tailwind.config.js file.
